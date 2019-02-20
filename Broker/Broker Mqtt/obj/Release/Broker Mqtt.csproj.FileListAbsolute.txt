@@ -1,0 +1,34 @@
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\bin\Release\Broker Mqtt.exe.config
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\bin\Release\Broker Mqtt.exe
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\bin\Release\Broker Mqtt.pdb
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\bin\Release\MQTTnet.dll
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\MainWindow.g.cs
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\App.g.cs
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt_MarkupCompile.cache
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt_MarkupCompile.lref
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\MainWindow.baml
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt.g.resources
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker_Mqtt.Properties.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt.csproj.GenerateResource.cache
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt.csproj.CoreCompileInputs.cache
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt.csproj.CopyComplete
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt.exe
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt.pdb
+C:\Users\Antonio\Documents\Visual Studio 2017\Projects\Broker Mqtt\Broker Mqtt\obj\Release\Broker Mqtt.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\bin\Release\Broker Mqtt.exe.config
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\bin\Release\Broker Mqtt.exe
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\bin\Release\Broker Mqtt.pdb
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\bin\Release\MQTTnet.dll
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt.csprojAssemblyReference.cache
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\MainWindow.g.cs
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\App.g.cs
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt_MarkupCompile.cache
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt_MarkupCompile.lref
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\MainWindow.baml
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt.g.resources
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker_Mqtt.Properties.Resources.resources
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt.csproj.GenerateResource.cache
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt.csproj.CoreCompileInputs.cache
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt.csproj.CopyComplete
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt.exe
+C:\Users\Andre\Desktop\ESAMI\Broker_Anto\Broker Mqtt\obj\Release\Broker Mqtt.pdb

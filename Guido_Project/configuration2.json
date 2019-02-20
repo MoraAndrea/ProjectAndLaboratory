@@ -1,0 +1,34 @@
+{
+  "version": 2,
+  "id": "FEZ_2",
+  "name": "Temperature and Humidity",
+  "group": "4",
+  "type": "temperature",
+  "sensors": [
+    {
+      "id": 1,
+      "name": "temperature",
+      "type": "temperature"
+    },
+    {
+      "id": 2,
+      "name": "humidity",
+      "type": "humidity"
+    },
+    {
+      "id": 3,
+      "name": "lightsense",
+      "type": "lightsense"
+    },
+    {
+      "id": 4,
+      "name": "moisture",
+      "type": "moisture"
+    }
+  ],
+  "description": "Sensors of temperature, humidity, light",
+  "location": "lezzo",
+  "latitude": 45.054862,
+  "longitude": 7.686728,
+  "internal": true
+}

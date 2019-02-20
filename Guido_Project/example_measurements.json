@@ -1,0 +1,9 @@
+{
+"version": 2,
+"device_id": "FEZ_02",
+"iso_timestamp": "2018-05-04T04:03:30+00:00",
+"measurements":[
+    {"sensor_id": 1, "iso_timestamp": "2018-05-04T04:02:21+00:00", "value": 1.0, status: "OK" },
+    {"sensor_id": 2, "iso_timestamp": "2018-05-04T04:02:21+00:00", "value": 0.0, status: "OK" },
+  ]
+}

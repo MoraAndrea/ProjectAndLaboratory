@@ -1,0 +1,372 @@
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\Progetto_Guido.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.csproj.GenerateResource.Cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\Progetto_Guido.Resources.tinyresources
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\TinyResGen.cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.SPI.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebClient.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebServer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Networking.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Moisture.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.USBClientEDP.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Json.NetMF.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\M2Mqtt.NetMf.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.SPI.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebClient.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebServer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Networking.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Moisture.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.USBClientEDP.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Json.NetMF.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\M2Mqtt.NetMf.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.SPI.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Networking.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Moisture.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.USBClientEDP.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\Json.NetMF.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\M2Mqtt.NetMf.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.SPI.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Networking.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Moisture.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.USBClientEDP.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\Json.NetMF.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\M2Mqtt.NetMf.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHI.Networking.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Moisture.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.SDCard.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.USBClientEDP.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Json.NetMF.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\M2Mqtt.NetMf.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHI.Hardware.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHI.Usb.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHI.Networking.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Moisture.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.SDCard.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.USBClientEDP.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\Json.NetMF.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\M2Mqtt.NetMf.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHI.Hardware.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GHI.Usb.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\be\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\be\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\le\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\le\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Breakout.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Breakout.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Breakout.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Breakout.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Breakout.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\REPO_Guido\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Breakout.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.csprojResolveAssemblyReference.cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\Progetto_Guido.Resources.resources
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.csproj.GenerateResource.Cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\Progetto_Guido.Resources.tinyresources
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\TinyResGen.cache
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Progetto Guido.exe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Progetto Guido.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.SPI.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebClient.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebServer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Networking.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.SQLite.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Breakout.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Moisture.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.USBClientEDP.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Json.NetMF.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\M2Mqtt.NetMf.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.SPI.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebClient.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebServer.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Networking.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.SQLite.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Breakout.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Moisture.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.USBClientEDP.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Json.NetMF.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\M2Mqtt.NetMf.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.SPI.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Networking.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.SQLite.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Breakout.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Moisture.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.USBClientEDP.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\Json.NetMF.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\M2Mqtt.NetMf.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.SPI.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Networking.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.SQLite.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Breakout.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.EthernetJ11D.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Moisture.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.USBClientEDP.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\Json.NetMF.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\M2Mqtt.NetMf.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.Networking.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.SQLite.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Breakout.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.EthernetJ11D.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Moisture.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.SDCard.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.USBClientEDP.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Json.NetMF.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\M2Mqtt.NetMf.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.Hardware.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.Usb.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.Networking.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.SQLite.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Breakout.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.EthernetJ11D.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Moisture.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.SDCard.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.USBClientEDP.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\Json.NetMF.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\M2Mqtt.NetMf.pdb
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.Hardware.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GHI.Usb.xml
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\be\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\be\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\le\Progetto Guido.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\obj\Debug\le\Progetto Guido.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Button.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Button.pe
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Button.pdbx
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Button.dll
+C:\Users\Antonio\Documents\Visual Studio 2013\Projects\New REPO_GUIDO\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Button.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.exe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.exe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Progetto Guido.exe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Progetto Guido.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\le\Progetto Guido.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\be\Progetto Guido.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.SPI.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebClient.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebServer.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Hardware.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Networking.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.SQLite.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Breakout.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.LightSense.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Moisture.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.USBClientEDP.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.WiFiRS21.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Json.NetMF.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\M2Mqtt.NetMf.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Usb.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.SPI.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebClient.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebServer.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Hardware.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Networking.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.SQLite.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Breakout.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.LightSense.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Moisture.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.SDCard.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.USBClientEDP.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.WiFiRS21.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Json.NetMF.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\M2Mqtt.NetMf.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Usb.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.SPI.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebClient.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Gadgeteer.WebServer.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Hardware.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Networking.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.SQLite.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Breakout.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.Moisture.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.USBClientEDP.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GTM.GHIElectronics.WiFiRS21.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\Json.NetMF.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\M2Mqtt.NetMf.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\LE\GHI.Usb.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.SPI.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebClient.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Gadgeteer.WebServer.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Hardware.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Networking.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.SQLite.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHIElectronics.Gadgeteer.FEZSpiderII.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Breakout.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.LightSense.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.Moisture.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.SDCard.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.USBClientEDP.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GTM.GHIElectronics.WiFiRS21.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\Json.NetMF.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\M2Mqtt.NetMf.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\BE\GHI.Usb.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.Hardware.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.Networking.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.SQLite.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Breakout.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.LightSense.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Moisture.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.SDCard.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.USBClientEDP.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.WiFiRS21.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Json.NetMF.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\M2Mqtt.NetMf.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.Usb.dll
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.SPI.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebClient.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Gadgeteer.WebServer.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.Hardware.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.Networking.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.SQLite.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHIElectronics.Gadgeteer.FEZSpiderII.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Breakout.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.LightSense.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.Moisture.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.SDCard.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.USBClientEDP.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GTM.GHIElectronics.WiFiRS21.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\Json.NetMF.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\M2Mqtt.NetMf.pdb
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\bin\Debug\GHI.Usb.xml
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.csprojResolveAssemblyReference.cache
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\TinyCLR_DebugReferences.cache
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\Progetto_Guido.Resources.resources
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.csproj.GenerateResource.Cache
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\Progetto_Guido.Resources.tinyresources
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\TinyResGen.cache
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\be\Progetto Guido.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\be\Progetto Guido.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\le\Progetto Guido.pe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\le\Progetto Guido.pdbx
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.exe
+C:\Users\Andre\Desktop\ESAMI\Guido_Project\Progetto Guido\Progetto Guido\obj\Debug\Progetto Guido.pdb

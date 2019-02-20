@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en" class="mdl-js">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="description" content="A front-end template that helps you build fast, modern mobile web apps.">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+  <title>Project&amp;Laboratory</title>
+
+  <!-- Add to homescreen for Chrome on Android -->
+  <meta name="mobile-web-app-capable" content="yes">
+
+  <!-- Add to homescreen for Safari on iOS -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="Material Design Lite">
+
+  <!-- Tile icon for Win8-->
+  <meta name="msapplication-TileImage" content="images/touch/ms-touch-icon-144x144-precomposed.png">
+  <meta name="msapplication-TileColor" content="#3372DF">
+
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:regular,bold,italic,thin,light,bolditalic,black,medium&amp;lang=en">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
+  <link rel="stylesheet" href="https://code.getmdl.io/1.3.0/material.cyan-light_blue.min.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="styles.css">
+
+  <script src="https://sdk.amazonaws.com/js/aws-sdk-2.254.1.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.7.2/Chart.js"></script>
+  <script src="https://code.getmdl.io/1.3.0/material.min.js"></script>
+
+  <script src="javascriptFunction.js"></script>
+  <!--script src="graph.js"></script-->
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyD_NfkYHHv6R1z7oD-RQxg7_uhZigWhjpI&callback=initMap"></script>
+
+  <style>
+    #view-source {
+      position: fixed;
+      display: block;
+      right: 0;
+      bottom: 0;
+      margin-right: 40px;
+      margin-bottom: 40px;
+      z-index: 900;
+    }
+  </style>
+
+</head>
+
+<body onload="getConffromAWS()">
+
+  <div class="mdl-layout__container">
+    <div class="demo-layout mdl-layout mdl-js-layout mdl-layout--fixed-drawer mdl-layout--fixed-header">
+      <header class="demo-header mdl-layout__header mdl-color--grey-100 mdl-color-text--grey-600">
+        <div class="mdl-layout__header-row">
+          <span class="mdl-layout-title">Visualizer</span>
+          <div class="mdl-layout-spacer"></div>
+      </header>
+
+      <!--div class="demo-drawer mdl-layout__drawer mdl-color--blue-grey-900 mdl-color-text--blue-grey-50" aria-hidden="true"-->
+      <div class="demo-drawer mdl-layout__drawer mdl-color--blue-grey-900 mdl-color-text--blue-grey-50">
+        <header class="demo-drawer-header">
+          <div class="demo-avatar-dropdown">
+            <span style="font-size: 30px;">Group Fez46</span>
+            <div class="mdl-layout-spacer"></div>
+          </div>
+        </header>
+   
+      
+
+        <nav class="demo-navigation mdl-navigation mdl-color--blue-grey-800">
+
+          <!--a class="mdl-navigation__link" href="">
+            <i class="mdl-color-text--blue-grey-400 material-icons" role="presentation">home</i>Home</a-->
+          <!-- <button type="button" class="myButton" name="answer" value="Home" onclick="showHome('home') ">
+            <i class="mdl-color-text--blue-grey-400 material-icons" style="text-align: center" role="presentation">home</i>Home</button> -->
+
+          <!--Button per map-->
+          <!--input type="button" class="myButton" name="answer" value="MapsFez" onclick="showDivMap('map',map) " /-->
+          <button type="button" class="myButton" name="answer" value="MapsFez" onclick="showMap('map') ">
+            <i class="mdl-color-text--blue-grey-400 material-icons" style="text-align: center" role="presentation">&#xe55b;</i>MapsFez</button>
+          <button type="button" class="myButton" value="Data" onclick="showData('data') ">
+            <i class="mdl-color-text--blue-grey-400 material-icons" style="text-align: center" role="presentation">&#xe5c6;</i>Data</button>
+          <button type="button" class="myButton" value="Sensors" onclick="showNav('sensors') ">
+            <i class="mdl-color-text--blue-grey-400 material-icons" style="text-align: center" role="presentation">&#xe5c6;</i>Sensors</button>
+          <br>
+          <div id="sensors" style="margin-left: 25%; display:none;">
+
+            <!--label class="switch">
+            <input type="checkbox" id="temperature" value="false" disabled="true" onchange="showDiv('sensorsDivT','temperature','myChartT')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Temperatura</label>
+          <br>
+          <br>
+          <label class="switch">
+            <input type="checkbox" id="humidity" value="false" disabled="true" onchange="showDiv('sensorsDivH','humidity','myChartH')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Humidity</label>
+          <br>
+          <br>
+          <label class="switch">
+            <input type="checkbox" id="moisture" value="false" disabled="true" onchange="showDiv('sensorsDivM','moisture','myChartM')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Moisture</label>
+          <br>
+          <br>
+          <label class="switch">
+            <input type="checkbox" id="lightsense" value="false" disabled="true" onchange="showDiv('sensorsDivL','lightsense','myChartL')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Light</label>
+          <br>
+          <br>
+          <label class="switch">
+            <input type="checkbox" id="position" value="false" disabled="true" onchange="showDiv('sensorsDivP','position','myChartP')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Position</label>
+          <br>
+          <br>
+          <label class="switch">
+            <input type="checkbox" id="water" value="false" disabled="true" onchange="showDiv('sensorsDivW','water','myChartW')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Water</label>
+          <br>
+          <br>
+          <label class="switch">
+            <input type="checkbox" id="co2" value="false" disabled="true" onchange="showDiv('sensorsDivco2','co2','myChartCo2')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Co2</label>
+          <br>
+          <br>
+          <label class="switch">
+            <input type="checkbox" id="fire" value="false" disabled="true" onchange="showDiv('sensorsDivF','water','myChartF')">
+            <span class="slider round"></span>
+          </label>
+          <label for="temp">&emsp;Fire</label-->
+          </div>
+
+          <div class="mdl-layout-spacer"></div>
+
+          <button type="button" class="myButton" onclick="showInfo('info') ">
+            <i class="mdl-color-text--blue-grey-400 material-icons" style="text-align: center" role="presentation">help_outline</i>
+          </button>
+        </nav>
+      </div>
+
+      <main class="mdl-layout__content mdl-color--grey-100">
+        <div class="mdl-grid demo-content">
+            <div id="home" style="display:block; width:550%;height:600px;" class="answer_list">
+
+
+               <h2 style="color:rgb(43, 33, 33)" align = "center">Project and Laboratory</h2>
+               <h3 style="color:rgb(43, 33, 33)" align = "center">2017/2018</h2>
+                <div style ="margin-top: 7% " align='center'><img  width="150" height ="150" src ="plt.png"></div>
+                <div style="color:rgb(9, 6, 6); bottom:1%; margin-top: 12%; margin-left: 28%"> <a style="color:gray" >Docente:<br></a> Prof. Guido Albertengo<br><a style="color:gray" >Docente Assistente:<br></a>Idilio Drago </div>
+              
+              
+              </div>
+          <!--div class="demo-charts mdl-color--white mdl-shadow--2dp mdl-cell mdl-cell--12-col mdl-grid"-->
+          <div id="charts" class="demo-graphs mdl-cell mdl-cell--12-col">
+            <!--div id="sensorsDivT" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col" >
+            TEMPERATURE
+            <canvas id="myChartT" width="800" height="400"></canvas>
+          </div>
+          <div id="sensorsDivH" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col">
+            HUMIDITY
+            <canvas id="myChartH" width="800" height="400"></canvas>
+          </div>
+          <div id="sensorsDivM" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col">
+            MOINSTURE
+            <canvas id="myChartM" width="800" height="400"></canvas>
+          </div>
+          <div id="sensorsDivL" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col">
+            LIGHT
+            <canvas id="myChartL" width="800" height="400"></canvas>
+          </div>
+          <div id="sensorsDivP" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col">
+            POSITION
+            <canvas id="myChartP" width="800" height="400"></canvas>
+          </div>
+          <div id="sensorsDivW" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col">
+            WATER
+            <canvas id="myChartW" width="800" height="400"></canvas>
+          </div>
+          <div id="sensorsDivco2" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col">
+            CO2
+            <canvas id="myChartCo2" width="800" height="400"></canvas>
+          </div>
+          <div id="sensorsDivF" style="display:none;" class="demo-graphs mdl-shadow--2dp mdl-cell mdl-cell--12-col">
+            FIRE
+            <canvas id="myChartF" width="800" height="400"></canvas>
+          </div-->
+          </div>
+          <!--/div-->
+          
+          <div id="map" style="display:none; width:550%;height:600px;" class="answer_list"> MAPS:</div>
+          <div id="data" style="display:none; width:550%;height:600px;" class="answer_list"> DATA:</div>
+          <div id="info" style="display:none; font-family:'Courier New', Courier, monospace; font-size: 20px;" class="answer_list">Created by:
+            <br> &emsp;Andrea Mora
+            <br> &emsp;Antonio Nunnari
+            <br> &emsp;Salvatore Zaccaria </div>
+        </div>
+      </main>
+      <div class="mdl-layout__obfuscator"></div>
+      </div>
+    </div>
+</body>
+
+</html>
